@@ -19,3 +19,6 @@ jobs:
 
     - name: Run check
       run: make all
+      
+    - name: Run list
+      run: make list
