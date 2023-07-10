@@ -22,5 +22,3 @@ jobs:
       
     - name: Run list
       run: make list
-    - name: Run general-stats
-      run: make general-stats
